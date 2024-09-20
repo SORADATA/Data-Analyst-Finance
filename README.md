@@ -20,8 +20,11 @@ Passionné par la finance et l'analyse de données, je combine mes compétences 
 ### 1. Analyse des défauts de paiement de clients taïwanais
 Réalisation d'une analyse prédictive des défauts de paiement de clients taïwanais à l'aide de SAS. Ce projet vise à identifier les facteurs clés influençant les risques de défaut et à développer un modèle de scoring pour améliorer la gestion du risque de crédit. https://github.com/SORADATA/SORADATA/tree/main/SAS
 
-### 2. Modèle de scoring crédit
-[Bref résumé et lien vers le dossier]
+### 2. Analyse Financière des Clients
+
+Ce projet SQL analyse les comportements d'achat et de crédit des clients à partir de la base de données `finance.data_finance`. Il inclut des segments basés sur les achats, une analyse de la fréquence des transactions, une prévision du risque de crédit, une évaluation de la performance de paiement, et une étude de l'utilisation de la limite de crédit. De plus, il propose un modèle de scoring client et un clustering simplifié pour identifier les groupes de clients. Ce travail vise à fournir des insights précieux pour améliorer la gestion du portefeuille de clients et optimiser les stratégies financières.
+https://github.com/SORADATA/SORADATA/tree/main/SQL/Finance_defaut_paiement_cleints
+
 
 ### 3. Segmentation de la clientèle bancaire
 [Bref résumé et lien vers le dossier]
