@@ -26,8 +26,13 @@ Ce projet SQL analyse les comportements d'achat et de crédit des clients à par
 https://github.com/SORADATA/SORADATA/tree/main/SQL/Finance_defaut_paiement_cleints
 
 
-### 3. Segmentation de la clientèle bancaire
-[Bref résumé et lien vers le dossier]
+### 3. Tableau de Bord Financier  Power BI
+
+Ce projet vise à créer un tableau de bord financier personnel avec Power BI, permettant aux utilisateurs de suivre et gérer efficacement leurs finances. Le tableau de bord présente des visualisations claires des revenus, des dépenses, et des économies, facilitant la compréhension des habitudes de consommation.
+
+Les utilisateurs peuvent visualiser leurs dépenses par catégorie, établir des budgets mensuels, et suivre l'évolution de leurs économies au fil du temps. Grâce à des graphiques interactifs et des filtres, ce tableau de bord permet une analyse approfondie des flux de trésorerie, aidant ainsi à prendre des décisions financières éclairées et à atteindre des objectifs financiers personnels.
+https://github.com/SORADATA/SORADATA/tree/main/POWER-BI
+
 
 ### 4. Analyse des séries temporelles financières
 [Bref résumé et lien vers le dossier]
