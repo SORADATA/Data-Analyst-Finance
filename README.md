@@ -32,6 +32,7 @@ Ce projet vise à créer un tableau de bord financier personnel avec Power BI, p
 
 Les utilisateurs peuvent visualiser leurs dépenses par catégorie, établir des budgets mensuels, et suivre l'évolution de leurs économies au fil du temps. Grâce à des graphiques interactifs et des filtres, ce tableau de bord permet une analyse approfondie des flux de trésorerie, aidant ainsi à prendre des décisions financières éclairées et à atteindre des objectifs financiers personnels.
 https://github.com/SORADATA/SORADATA/tree/main/POWER-BI
+![](https://github.com/SORADATA/SORADATA/blob/main/POWER-BI/Sreenshot_2.png)
 
 
 ### 4. Analyse des séries temporelles financières
