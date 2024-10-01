@@ -35,22 +35,8 @@ https://github.com/SORADATA/SORADATA/tree/main/POWER-BI
 ![](https://github.com/SORADATA/SORADATA/blob/main/POWER-BI/Sreenshot_2.png)
 
 
-### 4. Analyse des séries temporelles financières
-[Bref résumé et lien vers le dossier]
 
-### 5. Analyse des risques financiers
-[Bref résumé et lien vers le dossier]
 
-## Autres projets pertinents
-- [Mentionnez brièvement 2-3 projets non financiers mais qui démontrent des compétences pertinentes]
-
-## Connaissances du secteur
-- [Lien vers Financial-Terms-Glossary.md]
-- [Lien vers le dossier Book-Summaries]
-- [Lien vers le dossier Financial-Report-Analyses]
-
-## Certifications
-- [Liste des certifications pertinentes avec liens]
 
 ## Contact
-[Vos coordonnées professionnelles]
+sissokomoussa611@gmail.com
