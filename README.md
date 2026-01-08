@@ -1,7 +1,6 @@
 # Portfolio Data Analyst Finance
 
 ## À propos de moi
-## À propos de moi
 
 Passionné par la finance et l'analyse de données, je combine mes compétences techniques pour optimiser les stratégies financières et fournir des insights clairs. Mon expertise couvre la modélisation économique et la visualisation des données, facilitant des décisions éclairées basées sur des analyses précises.
 
